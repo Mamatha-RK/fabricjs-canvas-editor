@@ -4,10 +4,11 @@
 This project demonstrates a simple interactive canvas using Fabric.js.
 
 ## Features
-- Add shapes and text
-- Drag and resize elements
+- Add rectangle and text
+- Drag and reposition elements
+- Resize and rotate objects
 - Background image support
-- Zoom functionality
+- Interactive canvas rendering
 
 ## Tech Stack
 - JavaScript
