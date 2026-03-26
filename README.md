@@ -10,6 +10,11 @@ This project demonstrates a simple interactive canvas using Fabric.js.
 - Background image support
 - Interactive canvas rendering
 
+## How to Run
+1. Download or clone the repository
+2. Open index.html in browser
+3. Click buttons to add elements
+
 ## Tech Stack
 - JavaScript
 - Fabric.js
