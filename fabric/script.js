@@ -38,3 +38,10 @@ canvas.on('mouse:wheel', function(opt) {
     opt.e.preventDefault();
     opt.e.stopPropagation();
 });
+
+function deleteObject() {
+    var activeObject = canvas.getActiveObject();
+    if (activeObject) {
+        canvas.remove(activeObject);
+    }
+}
