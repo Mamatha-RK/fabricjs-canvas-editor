@@ -21,4 +21,5 @@ This project demonstrates a simple interactive canvas using Fabric.js.
 - HTML/CSS
 
 ## Preview
-<img width="842" height="572" alt="image" src="https://github.com/user-attachments/assets/4bcd4411-af99-46f4-97ba-6e118d370f09" />
+<img width="671" height="566" alt="image" src="https://github.com/user-attachments/assets/c7b96f49-4f9e-4cda-9bb4-80774892a51a" />
+
