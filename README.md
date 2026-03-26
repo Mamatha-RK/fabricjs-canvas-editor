@@ -1,4 +1,4 @@
-# Fabric.js Canvas Editor
+## Fabric.js Canvas Editor (Interactive Demo)
 
 ## Overview
 This project demonstrates a simple interactive canvas using Fabric.js.
